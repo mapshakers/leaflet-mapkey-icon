@@ -12,7 +12,7 @@ New dimension of markers for [Leaflet](http://leafletjs.com). It uses [mapkeyico
 *Compatible with Leaflet 0.6.0 or newer*
 
 ## Example
-~~[Check out demo and example of use!](http://filipzava.github.io/leaflet-control-bar)~~
+[Check out demo and examples!](http://mapkeyicons.com/demo/leaflet/index.html)
 
 ## Getting started
 Using leaflet-mapkey-icon plugin is very easy and comfortable.
