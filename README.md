@@ -26,7 +26,7 @@ Using leaflet-mapkey-icon plugin is very easy and comfortable.
 * Then use in simple way in javascript file:
 ```javascript
 // Creating MapkeyIcon object
-var mki = L.icon.mapkey({name:"school",color:'#725139',background:'#f2c357',size:30}
+var mki = L.icon.mapkey({icon:"school",color:'#725139',background:'#f2c357',size:30}
 // Append to marker:
 L.marker([50,14.4],{icon:mki}).addTo(map);
 ```
