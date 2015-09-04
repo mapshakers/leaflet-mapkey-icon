@@ -1,0 +1,12 @@
+{
+  "name": "leaflet-mapkey-icon",
+  "version": "0.0.1",
+  "description": "Extensible MapkeyIcons for leaflet marker.",
+  "main": "dist/L.Icon.Mapkey.js",
+  "author": "Filip Zavadil, mapshakers.com",
+  "license": "MIT",
+  "dependencies": {
+    "leaflet": ">=0.7.3"
+  },
+  "keywords": ["marker", "icon","symbol","leaflet"]
+}
