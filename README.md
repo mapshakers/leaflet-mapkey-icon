@@ -2,8 +2,7 @@
     <img src="http://mapkeyicons.com/demo/img/mapkeyIcons.svg" alt="mapkeyicons"/>
 </div>
 
-
-MAPKEYICONS FOR LEAFLET ICON MARKER
+mapkeyicons for leaflet
 =====================
 <div style="text-align:center" align="center">
     <img src="http://mapkeyicons.com/demo/img/leaflet-mapkeyicons.jpg" alt="mapkeyicons for leaflet"/>
@@ -44,7 +43,7 @@ L.marker([50,14.4],{icon:mki}).addTo(map);
 | hoverEffect     | Toggle hover effect | true | true/false for switch on/off effect on hover |
 | additionalCSS   | Additional CSS code to style icon | null | CSS code (e.g. "border:4px solid #aa3838;") | 
 | hoverCSS       | CSS code to style icon on hover | null | CSS code (e.g. "'background-color:#992b00!important;color:#99defc!important;'") |
-| htmlCode       | Use this instead of icon option | null | e.g. '&#57347;','&#xe003;' [Check out mapkeyicons.com for html code](http://www.mapkeyicons.com)  |
+| htmlCode       | Use this instead of icon option | null | e.g. '&amp;#57347;','&amp;#xe003;' [Check out mapkeyicons.com for html code](http://www.mapkeyicons.com)  |
 | boxShadow    | Switch on/off icon shadow | true | true/false | 
 
 ### License
