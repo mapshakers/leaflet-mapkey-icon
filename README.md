@@ -36,8 +36,8 @@ L.marker([50,14.4],{icon:mki}).addTo(map);
 | --------------- | ---------------------- | ------------- | ---------------------------------------------------- |
 | icon            | ID of icon             | 'mapkey'       | e.g. 'bar','school' [Check out mapkeyicons.com for icon names](http://www.mapkeyicons.com)   |
 | size            | Size of icon in pixels | 26            | any number  |
-| background      | Color of the background| '#1F7499'     | any CSS color (e.g. 'red','rgba(20,160,90,0.5)', '#686868', ...) |
 | color           | Color of the icon      | 'white'       | any CSS color (e.g. 'red','rgba(20,160,90,0.5)', '#686868', ...) |
+| background      | Color of the background| '#1F7499'     | any CSS color or false for no background |
 | borderRadius    | Border radius of background in pixels  | '100%' (for circle icon) | any number (for circle size/2, for square 0.001)  | 
 | hoverScale      | Number to scale icon on hover | 1.4 | any real number (best result in range 1 - 2, use 1 for no effect) |
 | hoverEffect     | Toggle hover effect | true | true/false for switch on/off effect on hover |
