@@ -7,7 +7,7 @@
 </div>
 mapkeyicons for leaflet
 =====================
-New dimension of markers for [Leaflet](http://leafletjs.com). It uses [mapkeyicons project](http://mapkeyicons.com).
+New dimension of markers for [Leaflet](http://leafletjs.com). It uses [mapkeyicons.com](http://mapkeyicons.com) also on github [mapshakers/mapkeyicons](https://github.com/mapshakers/mapkeyicons) .
 
 *Compatible with Leaflet 0.6.0 or newer*
 
