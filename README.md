@@ -6,7 +6,7 @@
 MAPKEYICONS FOR LEAFLET ICON MARKER
 =====================
 <div style="text-align:center" align="center">
-    <img src="http://mapkeyicons.com/demo/img/leaflet-mapkey-icons.jpg" alt="mapkeyicons"/>
+    <img src="http://mapkeyicons.com/demo/img/leaflet-mapkeyicons.jpg" alt="mapkeyicons for leaflet"/>
 </div>
 New dimension of markers for [Leaflet](http://leafletjs.com). It uses [mapkeyicons project](http://mapkeyicons.com).
 
