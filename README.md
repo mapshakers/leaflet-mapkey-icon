@@ -17,7 +17,7 @@ New dimension of markers for [Leaflet](http://leafletjs.com). It uses [mapkeyico
 ## Getting started
 Using leaflet-mapkey-icon plugin is very easy and comfortable.
 ### Usage
-* Download and place files from ```dist``` dir to the same folder in your project.
+* Download and place files from ```dist``` folder to the same place in your project.
 * Link javascript and style file in your HTML document:
 ```html
      <script src="...path-to-files.../L.Icon.Mapkey.js"></script>
