@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align:center" align="center">
-    <img width="80%" src="http://mapkeyicons.com/demo/img/leaflet-mapkeyicons.png" alt="mapkeyicons for leaflet"/>
+    <img width="100%" src="http://mapkeyicons.com/demo/img/leaflet-mapkeyicons.png" alt="mapkeyicons for leaflet"/>
 </div>
 mapkeyicons for leaflet
 =====================
