@@ -1,11 +1,11 @@
 <div style="text-align:center" align="center">
-    <img src="http://mapkeyicons.com/demo/img/mapkeyIcons.svg" alt="mapkeyicons"/>
+    <img width="50%" src="http://mapkeyicons.com/demo/img/mapkeyIcons.svg" alt="mapkeyicons"/>
 </div>
 
 mapkeyicons for leaflet
 =====================
 <div style="text-align:center" align="center">
-    <img src="http://mapkeyicons.com/demo/img/leaflet-mapkeyicons.jpg" alt="mapkeyicons for leaflet"/>
+    <img width="50%" src="http://mapkeyicons.com/demo/img/leaflet-mapkeyicons.jpg" alt="mapkeyicons for leaflet"/>
 </div>
 New dimension of markers for [Leaflet](http://leafletjs.com). It uses [mapkeyicons project](http://mapkeyicons.com).
 
