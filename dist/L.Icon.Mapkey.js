@@ -33,7 +33,7 @@ L.Icon.Mapkey = L.DivIcon.extend({
         style.push("color:"+this.options.color);
         style.push("font-size:"+(this.options.size-8)+"px");
         style.push("border-radius:"+(this.options.borderRadius)+"px");
-        style.push("text-align:center;");
+        style.push("text-align:center; transition-property:font-size||line-height||background||color;transition-duration: 0.2s;transition-timing-function: linear;");
 
         if (this.options.background){
             if (this.options.boxShadow){
