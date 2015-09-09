@@ -1,9 +1,9 @@
 <div style="text-align:center" align="center">
-    <img width="50%" src="http://mapkeyicons.com/demo/img/mapkeyIcons.svg" alt="mapkeyicons"/>
+    <img width="50%" src="http://mapshakers.github.io/leaflet-mapkey-icon/img/mapkeyIcons.svg" alt="mapkeyicons"/>
 </div>
 
 <div style="text-align:center" align="center">
-    <img width="100%" src="http://mapkeyicons.com/demo/img/leaflet-mapkeyicons.png" alt="mapkeyicons for leaflet"/>
+    <img width="100%" src="http://mapshakers.github.io/leaflet-mapkey-icon/img/leaflet-mapkeyicons.png" alt="mapkeyicons for leaflet"/>
 </div>
 mapkeyicons for leaflet
 =====================
@@ -12,7 +12,7 @@ New dimension of markers for [Leaflet](http://leafletjs.com). It uses [mapkeyico
 *Compatible with Leaflet 0.6.0 or newer*
 
 ## Example
-[Check out demo and examples!](http://mapkeyicons.com/demo/leaflet/index.html)
+[Check out demo and examples!](http://mapshakers.github.io/leaflet-mapkey-icon/)
 
 ## Getting started
 Using leaflet-mapkey-icon plugin is very easy and comfortable.
